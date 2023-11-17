@@ -1,0 +1,15 @@
+{
+  "name": "buscard",
+  "version": "1.0.0",
+  "description": "bus card algorithm",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx vite"
+  },
+  "author": "msapple0338@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0",
+    "vite": "^4.5.0"
+  }
+}
